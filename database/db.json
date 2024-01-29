@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "024c",
+      "name": "rishi",
+      "email": "rishi.pamar@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "d434",
+      "name": "rishi",
+      "email": "rishi.pamar2004@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1328",
+      "name": "rishi",
+      "email": "r@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "5a16",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "089f",
+      "name": "p",
+      "email": "rp@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "restaurent": [
+    {
+      "name": "Dominos",
+      "contact": "222252255",
+      "Address": "Hydrebad",
+      "id": "2"
+    },
+    {
+      "name": "Pizza Hut",
+      "contact": "3333555",
+      "Address": "Guntur",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "KFC",
+      "Address": "Guntur",
+      "contact": "12456789"
+    }
+  ]
+}
